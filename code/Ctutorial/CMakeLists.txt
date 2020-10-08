@@ -1,0 +1,30 @@
+cmake_minimum_required (VERSION 3.2)
+
+project (CTutorial)
+
+# add the executables
+add_executable (helloWorld helloWorld.c)
+add_executable (printStuffOut printStuffOut.c)
+add_executable (swap swap.c)
+add_executable (allocMemDyn allocMemDyn.c)
+add_executable (pointerWildCard pointerWildCard.c)
+add_executable (castingExample castingExample.c)
+add_executable (simplePointerExample simplePointerExample.c)
+add_executable (simpleMallocExample simpleMallocExample.c)
+add_executable (simpleMallocExample2 simpleMallocExample2.c)
+add_executable (pntrVSarray pntrVSarray.c)
+add_executable (badPowerAssign badPowerAssign.c)
+add_executable (memmoveExample memmoveExample.c)
+add_executable (structExample structExample.c)
+add_executable (bugDebug bugDebug.c)
+add_executable (gdbGoodPractice gdbGoodPractice.c)
+add_executable (precedence precedence.c)
+add_executable (pntrAliasing pntrAliasing.c)
+add_executable (pointerGym pointerGym.c)
+add_executable (staticExample staticExample.c)
+add_executable (sumGame sumGame.c)
+add_executable (arrayVSpointer arrayVSpointer.c)
+add_executable (typeArrayInt3 typeArrayInt3.c)
+add_executable (pointerTrickery pointerTrickery.c)
+
+
