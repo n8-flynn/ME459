@@ -8,3 +8,5 @@ add_executable(bugDebug bugDebug.c)
 add_executable(gdbGoodPractice gdbGoodPractice.c)
 add_executable(pointerGym pointerGym.c)
 add_executable(sanitizeExample sanitizeExample.c)
+add_executable(castingExample castingExample.c)
+
