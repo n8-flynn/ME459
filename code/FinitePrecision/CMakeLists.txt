@@ -18,3 +18,5 @@ add_executable(typeLengthByte typeLengthByte.c)
 add_executable(standSizes standSizes.c)
 
 add_executable(int_as_float int_as_float.c)
+
+add_executable(sinxOverx sinxOverx.c)
