@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Some R language intermediate files
+*.RData
+
 # Compiled Object files
 *.slo
 *.lo
