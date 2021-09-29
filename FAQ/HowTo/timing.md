@@ -83,6 +83,6 @@ int main() {
 The output of this program would look something like this:
 
 ```
-please_profile_me took 1.2579244 seconds
+please_profile_me() took 1.2579244 seconds
 ```
  
