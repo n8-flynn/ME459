@@ -1,4 +1,4 @@
-// Credits to Nic Olsen for orignial creation
+// Credits to Nic Olsen for original creation
 
 #ifndef STRUCTS_H
 #define STRUCTS_H
