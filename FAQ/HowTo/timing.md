@@ -74,7 +74,7 @@ int main() {
 	long elapsed_nsec = end.tv_nsec - start.tv_nsec;
 
 	// Combine the values into a single human-readable duration 
-	double elapsed_total = elapsed_sec + (double)tv_nsec / (double)NSEC_PER_SEC;
+	double elapsed_total = elapsed_sec + (double)elapsed_nsec / (double)NSEC_PER_SEC;
 
 	printf("please_profile_me() took %g seconds\n", elapsed_total);
 }
