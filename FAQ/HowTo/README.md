@@ -1,5 +1,8 @@
 # How to ...
 
+### Euler Logistics
+- [Log in to Euler GitLab](using-euler-gitlab.md)
+
 ### C Programming
 - [Time a function in C (with high precision)](timing.md)
 - [Generate random numbers](generating-random-numbers.md)
