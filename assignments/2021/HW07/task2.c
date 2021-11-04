@@ -17,7 +17,23 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
-    /*********** call methods to allocate memory, populate an array of Record, sort, print and free the memory ***********/
+    /*********** add your code here ***********/
+
+    printf("student info\n");
+
+    /*********** add your code here ***********/
+    
+    printf("sort by last name\n");
+
+    /*********** add your code here ***********/
+
+    printf("sort by DOB\n");
+
+    /*********** add your code here ***********/
+
+    printf("sort by GPA\n");
+
+    /*********** add your code here ***********/
 
     return 0;
 }
