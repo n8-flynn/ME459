@@ -1,3 +1,5 @@
+/*** placeholder for header files ***/
+
 int compareLastName(const void*a, const void*b) {
     /*********** Implementation of this function goes here ***********/
 
